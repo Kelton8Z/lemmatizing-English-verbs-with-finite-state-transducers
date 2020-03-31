@@ -1,0 +1,12 @@
+0
+0 0 <other> <other>
+0 1 y i
+1 2 <epsilon> e
+2 3 <^> <^>
+3 4  s s
+1 7 <epsilon> <epsilon>
+7 8 <^> <^>
+8 5  e e
+5 6 d d
+6 0 <#> <#>
+4 0 <#> <#>

@@ -1,0 +1,24 @@
+0
+0 0 <other> <other>
+0 0 <#> <#>
+0 1 z z
+0 1 s s
+0 1 x x
+0 6 c c
+0 6 s s
+6 0 <other> <other>
+6 0 <#> <#>
+6 1 h h
+1
+1 0 <#> <#>
+1 0 <other> <other>
+1 1 z z
+1 1 s s
+1 1 x x
+1 0 e e
+1 0 e <epsilon>
+1 2 <^> <^>
+2
+2 3 <epsilon> e
+3 4 s s
+4 0 <#> <#>
